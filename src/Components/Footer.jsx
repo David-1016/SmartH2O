@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import Img1 from "../assets/Images/GrifoFavi.jpg"
+
 
 const Footer = () => {
     return (
